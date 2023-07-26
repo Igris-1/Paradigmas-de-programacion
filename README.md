@@ -7,8 +7,8 @@ Los lenguajes utilizados fueron:
 La cursada consta de un total de 2 entregas obligatorias que se listan debajo.
 
 ## Entregas 2023C1
-- [TP1]()
-- [TP2]()
+- [TP1](https://github.com/Igris-1/Paradigmas-de-programacion/tree/main/TP1)
+- [TP2](https://github.com/Igris-1/Paradigmas-de-programacion/tree/main/TP2)
 
 ## para correr las entregas
 - TP1
