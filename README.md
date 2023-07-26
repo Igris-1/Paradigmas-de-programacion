@@ -12,12 +12,9 @@ La cursada consta de un total de 2 entregas obligatorias que se listan debajo.
 
 ## para correr las entregas
 - TP1
-```
-Lo unico que se puede correr son los test y las pruebas de mutantes, para eso hace falta
+> Lo unico que se puede correr son los test y las pruebas de mutantes, para eso hace falta
 tener Pharo e instalar la imagen de dicho tp
-```
+
 - TP2
-```
-Hay que ejecutar el archivo Login.java
+> Hay que ejecutar el archivo Login.java
 desde el directorio AlgoDefense/src/main/java/edu/fiuba/algo3/interfaz/Login.java
-```
