@@ -1,7 +1,7 @@
 ![tp2](https://github.com/franzimbi/algo3_tp2/actions/workflows/build.yml/badge.svg) [![codecov](https://codecov.io/gh/franzimbi/algo3_tp2/branch/master/graph/badge.svg)](https://codecov.io/gh/franzimbi/algo3_tp2)
 
 # TP2: AlgoDefense
-Este tp se desarrollo de forma grupal siguiendo un un formato de sprints con 3 enunciados distintos a los cuales se le fueron agregando actualizaciones y cambios de requerimientos a aplicar durante cada uno de los sprints
+Este tp se desarrollo de forma grupal siguiendo un formato de sprints con 3 enunciados distintos a los cuales se le fueron agregando actualizaciones y cambios de requerimientos a aplicar durante cada uno de los sprints
 
 ## Integrantes
 
