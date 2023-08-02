@@ -18,3 +18,5 @@ tener Pharo e instalar la imagen de dicho tp
 - TP2
 > Hay que ejecutar el archivo Login.java
 desde el directorio AlgoDefense/src/main/java/edu/fiuba/algo3/interfaz/Login.java
+
+> Detalle a tener en cuenta del tp2, solo funciona en macOS y Windows por (quiero pensar, realmente no me fije) temas de las urls a los resources.
